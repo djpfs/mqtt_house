@@ -1,0 +1,24 @@
+name: mqtt
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  mqtt_client: ^5.5.3
+  cupertino_icons: ^0.1.2
+  feather_icons_flutter: ^4.7.4
+  bubble_bottom_bar: ^1.2.0
+  badges: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
